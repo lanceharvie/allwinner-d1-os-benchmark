@@ -3,3 +3,4 @@ runtime-panel
 .DS_Store
 *.raw
 *.png
+!docs/images/*.png

@@ -1,6 +1,7 @@
 cff-version: 1.2.0
 title: "Allwinner D1 OS Benchmark and RunTime Panel"
 version: 1.0.0
+doi: "10.5281/zenodo.22054828"
 license: MIT
 type: software
 abstract: >

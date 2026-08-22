@@ -6,6 +6,11 @@ RunTime Panel began as a controlled experiment: run Linux, RT-Thread RT-Smart, a
 
 **Author:** [Lance Harvie](https://www.linkedin.com/in/lanceharvie/)
 
+## DOIs
+
+- **Software release:** [10.5281/zenodo.22054828](https://doi.org/10.5281/zenodo.22054828)
+- **Engineering report:** [10.5281/zenodo.22054539](https://doi.org/10.5281/zenodo.22054539)
+
 ## What this project is
 
 This is a same-board, three-OS engineering experiment:

@@ -18,6 +18,12 @@ The objective was not to declare a universal winner. It was to expose how protec
 
 The repository is also the home of the lightweight RunTime panel application developed after the OS work. It renders directly to the framebuffer, reads the touchscreen through Linux evdev, and does not require a browser, desktop environment, or dynamic runtime libraries.
 
+## Watch the experiment
+
+[![Linux vs RT-Smart vs NuttX on the Same RISC-V Board](https://img.youtube.com/vi/0gDMiJOwFoE/hqdefault.jpg)](https://youtu.be/0gDMiJOwFoE)
+
+> A walkthrough of why I ran the experiment, the Allwinner D1 hardware, Linux, RT-Smart and NuttX bring-up, the watchdog and timer issues encountered, and the resulting benchmark work.
+
 ## Hardware
 
 | Component | Configuration |
@@ -132,6 +138,12 @@ No network credentials are stored in this repository.
 The native RunTime dashboard reports live CPU frequency/load, thermal state, memory, uptime, Linux status, XR829 network activity, IP address, display details, and touch coordinates. It uses a RAM back buffer and event-driven redraws to keep the single-core D1 responsive.
 
 ![RunTime system dashboard framebuffer capture](docs/images/runtime-dashboard.png)
+
+### RunTime Panel video
+
+[![RunTime 720x720 Touchscreen GUI](https://img.youtube.com/vi/ES-3FGEeBE4/hqdefault.jpg)](https://youtu.be/ES-3FGEeBE4)
+
+> Demonstration of the working 720 x 720 LCD, capacitive touch input, live RunTime system dashboard, and the Home smart-home style interface.
 
 ## Home interface
 

@@ -1,4 +1,4 @@
-# RunTime Panel on the Allwinner D1
+# Allwinner D1 OS Benchmark and RunTime Panel
 
 RunTime Panel began as a controlled experiment: run Linux, RT-Thread RT-Smart, and Apache NuttX on exactly the same Allwinner D1 RISC-V hardware and measure what changes with each operating-system architecture. It grew into a complete board bring-up, benchmark investigation, and native 720 x 720 touchscreen application with working display, touch, and XR829 Wi-Fi.
 
@@ -219,7 +219,7 @@ The 30-page report contains the full methodology, Linux results, RT-Smart result
 
 ## Repository and reproducibility status
 
-- Public repository: <https://github.com/lanceharvie/lichee-rv86-runtime-panel>
+- Public repository: <https://github.com/lanceharvie/allwinner-d1-os-benchmark>
 - Release branch: `main`
 - Source is MIT licensed where applicable; the font license remains separately preserved.
 - Local credentials, Wi-Fi secrets, generated binaries, raw framebuffer captures, and the local font build environment are excluded.

@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+title: "Allwinner D1 OS Benchmark and RunTime Panel"
+version: 1.0.0
+license: MIT
+type: software
+abstract: >
+  Bring-up and benchmarking of Linux, RT-Thread RT-Smart and Apache NuttX
+  on the same Allwinner D1 / XuanTie C906 RISC-V platform, including
+  watchdog and timer diagnosis, cross-OS latency measurements, and a
+  native 720x720 RunTime touchscreen interface with display, touch and
+  Wi-Fi support.
+message: "If you use this software or the accompanying benchmark results, please cite this work."
+authors:
+  - given-names: Lance
+    family-names: Harvie
+keywords:
+  - RISC-V
+  - Allwinner D1
+  - XuanTie C906
+  - Sipeed Lichee RV
+  - embedded Linux
+  - RTOS
+  - RT-Thread
+  - RT-Smart
+  - Apache NuttX
+  - real-time systems
+  - operating-system benchmarking
+  - embedded systems
+  - touchscreen
+  - framebuffer
+  - RunTime Panel
+repository-code: https://github.com/lanceharvie/allwinner-d1-os-benchmark
+url: https://github.com/lanceharvie/allwinner-d1-os-benchmark
+preferred-citation:
+  type: report
+  title: "Allwinner D1 Operating-System Bring-Up and Benchmark Experiment"
+  authors:
+    - given-names: Lance
+      family-names: Harvie
+  year: 2026
+  doi: "10.5281/zenodo.22054539"
+  url: "https://doi.org/10.5281/zenodo.22054539"

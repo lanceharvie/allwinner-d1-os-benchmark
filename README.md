@@ -227,6 +227,8 @@ The application:
 
 [**Download the full Allwinner D1 OS Bring-Up and Benchmark Report (PDF)**](docs/Allwinner_D1_OS_Bringup_Benchmark_Report.pdf)
 
+**Published report:** [10.5281/zenodo.22054539](https://doi.org/10.5281/zenodo.22054539)
+
 The 30-page report contains the full methodology, Linux results, RT-Smart results and limitations, NuttX D1 port creation, watchdog diagnosis, native Timer1 diagnosis, benchmark validation, cross-OS comparisons, limitations, reproducibility information, and the later touchscreen/display/network work.
 
 ## Repository and reproducibility status
